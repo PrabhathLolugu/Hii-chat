@@ -11,6 +11,4 @@ Remember, Start first Server app to create port than Client app to join it. It m
 
 #APPLICATION DEVELOPED BY 
 
-	- Java Socket Programming 
-
-	- Netbeans IDE (8.1v)
+	- PrabhathLolugu
